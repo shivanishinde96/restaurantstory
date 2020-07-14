@@ -1,0 +1,22 @@
+{
+  "login": [
+    {
+      "name": "Shivani",
+      "password": "Shivani19"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Mac Donald",
+      "email": "macd@test.com",
+      "rating": "4.7",
+      "id": 1
+    },
+    {
+      "name": "Pizza Hut",
+      "email": "pizza@test.com",
+      "rating": "4.2",
+      "id": 2
+    }
+  ]
+}
